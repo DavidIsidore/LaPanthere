@@ -362,6 +362,23 @@ a:hover {
     z-index: 2;
 }
 
+.text-20{
+    font-size:20px;
+}
+
+.texte-gras{
+    font-weight: 600;
+}
+
+.pg-center{
+    width:550px;
+    margin: auto;
+}
+
+.div-center{
+    width:700px;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
