@@ -384,6 +384,13 @@ a:hover {
     margin: auto;
 }
 
+.nav-place{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 100px;
+    width: 200px;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
