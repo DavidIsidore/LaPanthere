@@ -379,6 +379,11 @@ a:hover {
     width:700px;
 }
 
+.textwidth-400{
+    width: 400px;
+    margin: auto;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
