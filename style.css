@@ -397,6 +397,10 @@ a:hover {
     list-style:none;
 }
 
+.nav-place a{
+    text-decoration: none;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
