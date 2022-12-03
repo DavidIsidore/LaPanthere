@@ -975,7 +975,7 @@ h4 {
         -webkit-transform: none;
         -ms-transform: none;
     }
-    .nav-place{
+    .nav-column{
         display:flex;
         flex-direction:column;
         margin-right: 100px;
